@@ -1,5 +1,6 @@
 # refactored-memory
 
+## My Super Project
 ## My Awesome Project
 
 - initialize the project repository
