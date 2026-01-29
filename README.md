@@ -1,6 +1,6 @@
 # refactored-memory
 
-## My Project Plan
+## My Awesome Project
 
 - initialize the project repository
 - Add the main feature
