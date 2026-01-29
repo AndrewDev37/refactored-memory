@@ -1,6 +1,6 @@
 # refactored-memory
 
-## My Project Plan
+## My Super Project
 
 - initialize the project repository
 - Add the main feature
