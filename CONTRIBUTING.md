@@ -14,4 +14,4 @@ project's goals.
    `fix/correct-login-validation`
 3. **Make Your Changes:** Write your code, add your documentation, and make your changes 
 within your new branch.
-
+.
